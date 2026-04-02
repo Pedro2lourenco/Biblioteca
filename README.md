@@ -56,7 +56,7 @@ Esse formato simples permite fácil leitura tanto pelo Python quanto pelo R.
 
 ---
 
-## 📊 Parte 2 — Análise em R
+## Parte 2 — Análise em R
 
 A linguagem R foi utilizada para realizar a análise dos dados armazenados.
 
